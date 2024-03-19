@@ -2,7 +2,7 @@
 ## Bio
 I don't kown what should i write in the bio.
 <br/>Because i'm lazy.
-### contacts
+### Contact Info
 EMAIL : lt_gve_e_msil@yeah.net
 <br/>TIPS : Don't send spam,I won't watch it
 
