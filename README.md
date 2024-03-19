@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi I'm LT_GVE 👋
+## Bio
+I don't kown what should i write in the bio.
+<br/>Because i'm lazy.
+### contacts
+EMAIL : lt_gve_e_msil@yeah.net
+<br/>TIPS : Don't send spam,I won't watch it
+
+
+ 
 
 <!--
 **LTGVE/LTGVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
